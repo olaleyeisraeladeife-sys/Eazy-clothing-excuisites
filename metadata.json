@@ -1,0 +1,6 @@
+{
+  "name": "Eazy Clothing Exquisites",
+  "description": "Modern bespoke tailoring & fashion brand landing page showcasing corporate wear, traditional African attire, and custom sartorial craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
